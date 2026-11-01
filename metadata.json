@@ -1,0 +1,8 @@
+{
+  "name": "MindLoop",
+  "description": "Mental-health monitoring and clinical insight platform connecting patient-reported experiences, wearable biometrics, and AI-assisted observations for psychiatrists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
